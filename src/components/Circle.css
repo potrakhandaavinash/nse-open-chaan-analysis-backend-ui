@@ -1,0 +1,11 @@
+.circle {
+    width: 300px; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */
+    border: 2px solid black;
+    border-radius: 500%;
+    position: relative;
+    overflow: hidden;
+    margin: auto;
+    
+  }
+  
